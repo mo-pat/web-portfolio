@@ -2,6 +2,7 @@ import './tailwind.output.css';
 import { Nav } from './component/Nav.js'
 import { About } from './component/About.js'
 import { Resume } from './component/Resume.js'
+import { Project} from './component/Project.js'
 
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       <Nav />
       <About />
       <Resume />
+      <Project />
     </div>
   );
 }

@@ -2,12 +2,12 @@ import React from 'react'
 
 export const Resume = () => {
   return (
-    <div className="resume-background flex justify-center items-center bg-blue-800 h-screen">
-      <div className="resume bg-white shadow-lg h-screen mt-48 h-full w-full mx-6 md:mx-32 rounded">
-        <header className="resume-header mt-12 mx-12 pb-4 text-left text-3xl border-b">
+    <div className="resume-background flex justify-center items-center bg-blue-800 h-screen" id="resume">
+      <div className="resume bg-white shadow-lg w-full mt-64 md:mt-2 mx-6 md:mx-32 rounded">
+        <header className="resume-header mt-12 mx-6 md:mx-12 pb-4 text-left text-3xl border-b-2 border-yellow-600">
           Qualifications
         </header>
-        <div className="pl-24 py-8 h-full">
+        <div className="qualification-list pl-8 md:pl-24 py-8">
           <ul className="list-disc space-y-2">
             <li>
               Skilled with the following languages: JavaScript ES6 (Proficient), Python, C/C++, HTML, CSS, FORTRAN
@@ -37,12 +37,27 @@ export const Resume = () => {
               Working with an engineering mindset; providing solutions that work within constraints and with scalability in mind
             </li>
             <li>
-              Ability to work in muitidisciplinary groups while also being self-autonomous
+              Ability to work in muitidisciplinary groups while also be self-autonomous
             </li>
           </ul>
-          <header className="text-3xl border-b">
-            Education/Certifications
-          </header>
+        </div>
+        <header className="text-3xl pb-4 mx-6 md:mx-12 border-b-2 border-yellow-600">
+          Education
+        </header>
+        <div className="education-list pl-6 md:pl-16 py-8">
+          <ul className="space-y-2">
+            <div>
+              <header>Responsive Web Design Certification</header>
+              <header>Javascript Algorithms and Data Structures Certification</header>
+              <header>APIs and Microservices Certification</header>
+              <li>freeCodeCamp</li>
+            </div>
+            <br></br>
+            <div>
+              <header>Bachelor's of Engineering</header>
+              <li>Concordia University</li>
+            </div>
+          </ul>
         </div>
       </div>
     </div>
