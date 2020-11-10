@@ -8,7 +8,7 @@ export const Nav = () => {
       <ul className="flex flex-row space-x-8 font-semibold" id="nav-list">
         <li><a href="#home" className="hover:text-white transition-color duration-500 ease-out">Home</a></li>
         <li><a href="#resume" className="hover:text-white transition-color duration-500 ease-out">Resume</a></li>
-        <li><a href="#" className="hover:text-white transition-color duration-500 ease-out">Projects</a></li>
+        <li><a href="#projects" className="hover:text-white transition-color duration-500 ease-out">Projects</a></li>
         <li><a href="#" className="hover:text-white transition-color duration-500 ease-out">Work</a></li>
         <li><a href="#" className="hover:text-white transition-color duration-500 ease-out">Contact</a></li>
       </ul>
