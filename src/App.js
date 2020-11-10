@@ -7,7 +7,7 @@ import { Project} from './component/Project.js'
 
 function App() {
   return (
-    <div className="App">
+    <div className="App font-sans">
       <Nav />
       <About />
       <Resume />

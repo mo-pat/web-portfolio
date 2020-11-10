@@ -1,14 +1,15 @@
 import React from 'react'
+import Education from './Education.js'
 
 export const Resume = () => {
   return (
-    <div className="resume-background flex justify-center items-center bg-blue-800 h-screen" id="resume">
-      <div className="resume bg-white shadow-lg w-full mt-64 md:mt-2 mx-6 md:mx-32 rounded">
+    <div className="resume-background flex justify-center items-center bg-blue-800 py-6" id="resume">
+      <div className="resume bg-white shadow-lg w-full md:mt-2 mx-6 md:mx-32 rounded">
         <header className="resume-header mt-12 mx-6 md:mx-12 pb-4 text-left text-3xl border-b-2 border-yellow-600">
           Qualifications
         </header>
         <div className="qualification-list pl-8 md:pl-24 py-8">
-          <ul className="list-disc space-y-2">
+          <ul className="list-disc space-y-2 font-sans">
             <li>
               Skilled with the following languages: JavaScript ES6 (Proficient), Python, C/C++, HTML, CSS, FORTRAN
             </li>
@@ -44,20 +45,8 @@ export const Resume = () => {
         <header className="text-3xl pb-4 mx-6 md:mx-12 border-b-2 border-yellow-600">
           Education
         </header>
-        <div className="education-list pl-6 md:pl-16 py-8">
-          <ul className="space-y-2">
-            <div>
-              <header>Responsive Web Design Certification</header>
-              <header>Javascript Algorithms and Data Structures Certification</header>
-              <header>APIs and Microservices Certification</header>
-              <li>freeCodeCamp</li>
-            </div>
-            <br></br>
-            <div>
-              <header>Bachelor's of Engineering</header>
-              <li>Concordia University</li>
-            </div>
-          </ul>
+        <div className="education-list pl-6 pr-16 md:pl-16 py-8">
+          <Education />
         </div>
       </div>
     </div>
