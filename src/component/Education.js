@@ -22,7 +22,6 @@ export const Education = (props) => {
         {/*header-description*/}
         <div>
           <header className="font-medium text-2xl">Responsive Web Design Certification</header>
-          <p className="text-base font-normal my-1">freeCodeCamp Academy</p>
           <a href="https://www.freecodecamp.org/certification/fccf2408620-13c2-464d-b69a-e93d6248b1ee/responsive-web-design" target="_blank" className="text-blue-700 hover:text-blue-400 text-sm">Source</a>
         </div>
         <div>
@@ -34,7 +33,6 @@ export const Education = (props) => {
         {/*header-description*/}
         <div>
           <header className="font-medium text-2xl">Javascript Algorithms and Data Structures Certification</header>
-          <p className="text-base font-normal my-1">freeCodeCamp Academy</p>
           <a href="https://www.freecodecamp.org/certification/fccf2408620-13c2-464d-b69a-e93d6248b1ee/javascript-algorithms-and-data-structures" target="_blank" className="text-blue-700 hover:text-blue-400 text-sm">Source</a>
         </div>
         <div>
@@ -46,7 +44,6 @@ export const Education = (props) => {
         {/*header-description*/}
         <div>
           <header className="font-medium text-2xl">APIs and Microservices Certification</header>
-          <p className="text-base font-normal my-1">freeCodeCamp Academy</p>
           <a href="https://www.freecodecamp.org/certification/fccf2408620-13c2-464d-b69a-e93d6248b1ee/apis-and-microservices" target="_blank" className="text-blue-700 hover:text-blue-400 text-sm">Source</a>
         </div>
         <div>

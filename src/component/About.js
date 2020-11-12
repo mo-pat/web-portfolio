@@ -7,7 +7,7 @@ export const About = () => {
         Hi, I'm Mohit Patel 👋
       </div>
       <div className="my-4 px-12 md:px-24">
-        Software developer with an engineering background. Passion for building apps for IoT application.
+        Software developer with an engineering background. Passion for building apps for IoT applications.
       </div>
     </div>
   )
