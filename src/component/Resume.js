@@ -14,7 +14,7 @@ export const Resume = () => {
               Skilled with the following languages: JavaScript (Proficient), Python, C/C++, HTML, CSS, FORTRAN
             </li>
             <li>
-              Good understanding of ES6 and writting code using its latest features (arrow functions, template literals, destructuring, async await)
+              Good understanding of modern javacsript (ES6+) and writting code using its latest features (arrow functions, template literals, destructuring, async await)
             </li>
             <li>
               Strong understanding of how the web works and client-server architecture.
@@ -26,10 +26,13 @@ export const Resume = () => {
               Familiar with REST API development and building server applications using NodeJS and Express
             </li>
             <li>
-              Strong understanding of writting code that follow software design principles (DRY, KISS, Abstraction, etc.)
+              Knowledge of SQL and NoSQL databases (Postgres, MongoDB)
             </li>
             <li>
-              Experience using bash and working in a Linux based environment
+              Strong understanding of writting code that follow general software design principles (DRY, KISS, Abstraction, etc.)
+            </li>
+            <li>
+              Experience using bash and working in a Linux environment
             </li>
             <li>
               Experience working with a version control system (Github)
