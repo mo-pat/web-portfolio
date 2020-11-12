@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/web-portfolio/static/css/main.5fe9b9e4.chunk.css",
+    "main.js": "/web-portfolio/static/js/main.1992626b.chunk.js",
+    "main.js.map": "/web-portfolio/static/js/main.1992626b.chunk.js.map",
+    "runtime-main.js": "/web-portfolio/static/js/runtime-main.d746c9b4.js",
+    "runtime-main.js.map": "/web-portfolio/static/js/runtime-main.d746c9b4.js.map",
+    "static/js/2.e75a1cbd.chunk.js": "/web-portfolio/static/js/2.e75a1cbd.chunk.js",
+    "static/js/2.e75a1cbd.chunk.js.map": "/web-portfolio/static/js/2.e75a1cbd.chunk.js.map",
+    "static/js/3.e750b5ce.chunk.js": "/web-portfolio/static/js/3.e750b5ce.chunk.js",
+    "static/js/3.e750b5ce.chunk.js.map": "/web-portfolio/static/js/3.e750b5ce.chunk.js.map",
+    "index.html": "/web-portfolio/index.html",
+    "static/css/main.5fe9b9e4.chunk.css.map": "/web-portfolio/static/css/main.5fe9b9e4.chunk.css.map",
+    "static/js/2.e75a1cbd.chunk.js.LICENSE.txt": "/web-portfolio/static/js/2.e75a1cbd.chunk.js.LICENSE.txt",
+    "static/media/discord6.2867d1f0.PNG": "/web-portfolio/static/media/discord6.2867d1f0.PNG",
+    "static/media/workout4.40f710b1.png": "/web-portfolio/static/media/workout4.40f710b1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d746c9b4.js",
+    "static/js/2.e75a1cbd.chunk.js",
+    "static/css/main.5fe9b9e4.chunk.css",
+    "static/js/main.1992626b.chunk.js"
+  ]
+}
