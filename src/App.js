@@ -3,6 +3,7 @@ import { Nav } from './component/Nav.js'
 import { About } from './component/About.js'
 import { Resume } from './component/Resume.js'
 import { Project} from './component/Project.js'
+import { Footer } from './component/Footer.js'
 
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <About />
       <Resume />
       <Project />
+      <Footer />
     </div>
   );
 }
