@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/web-portfolio/static/css/main.5fe9b9e4.chunk.css",
-    "main.js": "/web-portfolio/static/js/main.83860915.chunk.js",
-    "main.js.map": "/web-portfolio/static/js/main.83860915.chunk.js.map",
+    "main.js": "/web-portfolio/static/js/main.da65f0e6.chunk.js",
+    "main.js.map": "/web-portfolio/static/js/main.da65f0e6.chunk.js.map",
     "runtime-main.js": "/web-portfolio/static/js/runtime-main.d746c9b4.js",
     "runtime-main.js.map": "/web-portfolio/static/js/runtime-main.d746c9b4.js.map",
     "static/js/2.e75a1cbd.chunk.js": "/web-portfolio/static/js/2.e75a1cbd.chunk.js",
@@ -13,12 +13,13 @@
     "static/css/main.5fe9b9e4.chunk.css.map": "/web-portfolio/static/css/main.5fe9b9e4.chunk.css.map",
     "static/js/2.e75a1cbd.chunk.js.LICENSE.txt": "/web-portfolio/static/js/2.e75a1cbd.chunk.js.LICENSE.txt",
     "static/media/discord6.2867d1f0.PNG": "/web-portfolio/static/media/discord6.2867d1f0.PNG",
+    "static/media/gitjob4.6ba80601.PNG": "/web-portfolio/static/media/gitjob4.6ba80601.PNG",
     "static/media/workout4.40f710b1.png": "/web-portfolio/static/media/workout4.40f710b1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d746c9b4.js",
     "static/js/2.e75a1cbd.chunk.js",
     "static/css/main.5fe9b9e4.chunk.css",
-    "static/js/main.83860915.chunk.js"
+    "static/js/main.da65f0e6.chunk.js"
   ]
 }
