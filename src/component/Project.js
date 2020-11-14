@@ -1,6 +1,7 @@
 import React from 'react'
 import workoutImage from '../workout4.png'
 import discordImage from '../discord6.PNG'
+import gitJobImage from '../gitjob4.PNG'
 import { ProjectCard } from './ProjectCard.js'
 
 export const Project = () => {
@@ -28,13 +29,13 @@ export const Project = () => {
       projectref:""
     },
     {
-      title: "Web Portfolio",
-      image: "bg-white",
+      title: "Git-Jobs",
+      image: gitJobImage,
       description: [
-        "Web portfolio made from scratch using React and Tailwind CSS",
-        "Responsive web application that works for mobile and desktop browsers"
+        "Python app that web scrapes indeed.com to grab latest job postings",
+        "Technologies used: Python3, Beautiful Soup (HTML scraper)"
       ],
-      gitref: "https://github.com/mo-pat/web-portfolio",
+      gitref: "https://github.com/mo-pat/git-Jobs",
       projectref:""
     }
   ]
