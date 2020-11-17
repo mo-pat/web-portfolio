@@ -15,8 +15,8 @@ export const Project = () => {
         "Front-end: React, Tailwind CSS",
         "Back-end: Node, Express and MongoDB"
       ],
-      gitref: "https://github.com/mo-pat/web-portfolio",
-      projectref: "https://stackoverflow.com/questions/49081549/passing-object-as-props-to-jsx",
+      gitref: "https://github.com/mo-pat/workoutTracker-react",
+      projectref: "",
     },
     {
       title: "lmaoPolice - Discord Bot",
