@@ -12,7 +12,7 @@ export const Footer = () => {
 
             <div className="w-1/4">
               <form className="mx-auto w-40 md:w-full flex flex-col" action="https://formspree.io/f/xleolvlp" method="POST" id="contact-form">
-                <header className="text-center mb-4 font-medium text-xl text-opacity-70">Contact Form</header>
+                <header className="text-left mb-4 font-medium text-xl text-opacity-70">Contact Form</header>
                 {/* name field*/}
                 {/*<span className="uppercase text-sm font-bold text-left text-gray-900">Full Name</span>*/}
                 <label htmlFor="full-name"></label>
