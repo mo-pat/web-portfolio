@@ -8,7 +8,7 @@ export const Footer = () => {
     <div className="py-12 bg-yellow-600 text-center" id="contact">
       <header className="mx-4 md:mx-16 pb-4 text-4xl md:text-5xl text-black">Let's get in touch</header>
       <div className="">
-          <div className="px-4 space-x-32 md:space-x-16 mt-4 flex justify-center">
+          <div className="px-2 space-x-20 md:space-x-8 mt-4 flex justify-center">
 
             <div className="w-1/4">
               <form className="mx-auto w-40 md:w-full flex flex-col" action="https://formspree.io/f/xleolvlp" method="POST" id="contact-form">
@@ -32,7 +32,7 @@ export const Footer = () => {
             </div>
 
             <div className="contact-link">
-              <header className="text-xl text-opacity-70 font-medium px-auto border-black text-center mb-4">Contact Links</header>
+              <header className="text-xl text-opacity-70 font-medium border-black text-center mb-4">Contact Links</header>
               <ul className="flex flex-row justify-center space-x-2">
                 <li className="transition ease-in duration-200 transform hover:-translate-y-1"><a href="https://github.com/mo-pat" target="_blank"><img src={githubLogo} alt=""/></a></li>
                 <li className="transition ease-in duration-200 transform hover:-translate-y-1"><a href="https://www.linkedin.com/in/mohit-patel-b44a8bbb/" target="_blank"><img src={linkedinLogo} alt=""/></a></li>
