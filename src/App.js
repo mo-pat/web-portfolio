@@ -8,7 +8,7 @@ import { Footer } from './component/Footer.js'
 
 function App() {
   return (
-    <div className="App font-sans">
+    <div className="App font-sans scroll-smoothly">
       <Nav />
       <About />
       <Resume />
