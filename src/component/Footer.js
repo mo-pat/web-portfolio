@@ -8,10 +8,10 @@ export const Footer = () => {
     <div className="py-12 bg-yellow-600 text-center" id="contact">
       <header className="mx-4 md:mx-16 pb-4 text-4xl md:text-5xl text-black">Let's get in touch</header>
       <div className="">
-          <div className="px-2 space-x-20 md:space-x-8 mt-4 flex justify-center">
+          <div className="px-2 space-x-10 md:space-x-8 mt-4 flex justify-center">
 
-            <div className="w-1/4">
-              <form className="mx-auto w-40 md:w-full flex flex-col" action="https://formspree.io/f/xleolvlp" method="POST" id="contact-form">
+            <div className="sm:w-1/2 md:w-2/5">
+              <form className="flex flex-col" action="https://formspree.io/f/xleolvlp" method="POST" id="contact-form">
                 <header className="text-left mb-4 font-medium text-xl text-opacity-70">Contact Form</header>
                 {/* name field*/}
                 {/*<span className="uppercase text-sm font-bold text-left text-gray-900">Full Name</span>*/}
