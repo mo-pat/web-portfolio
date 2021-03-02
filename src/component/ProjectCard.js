@@ -4,13 +4,13 @@ import gitLogo from '../git32px.png'
 export const ProjectCard = (props) => {
   return (
     <div className="flex justify-center">
-      <div className="max-w-xl shadow-2xl rounded overflow-hidden m-4 sm:flex transform hover:scale-105 transition duration-500 ease-in-out">
+      <div className="max-w-md shadow-2xl rounded overflow-hidden m-4 sm:flex transform hover:scale-105 transition duration-500 ease-in-out">
         <div className="h-64 flex-none bg-cover bg-center rounded rounded-t sm:rounded sm:rounded-l text-center overflow-hidden">
-          <img src={props.project.image} alt="" className="h-full"/>
+          <img src={props.project.image} alt="" className="object-scale-down w-48 h-full"/>
         </div>
-        <div className="px-6 py-4">
+        <div className="px-12 py-4">
           <header className="mb-2 text-xl font-semibold">{props.project.title}</header>
-          <div className="mb-4 text-grey-dark text-sm">
+          <div className="mb-4 text-grey-dark text-xs">
             <ul className="list-disc">
               {props.project.description.map(element => (
                 <li key={element}>{element}</li>
