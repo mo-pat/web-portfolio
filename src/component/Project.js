@@ -19,7 +19,7 @@ export const Project = () => {
       projectref: "",
     },
     {
-      title: "lmaoPolice - Discord Bot",
+      title: "lmaoPolice",
       image: discordImage,
       description: [
         "A Discord bot that censors any messages with the acronym 'lmao'. Done with NodeJs",
